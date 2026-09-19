@@ -31,7 +31,7 @@ Dashboard Preview
 ![Dashboard](Electricity_Load_Dashboard.png)
 
 Files in this Repo
-- PJME_hourly.xlsx: Raw dataset with Excel formulas and pivot table analysis
+- PJME_Hourly_Load_Data.xlsx: Raw dataset with Excel formulas and pivot table analysis
 - PJME_Data_Import.sql: SQL script for importing and structuring the data in MySQL
 - Electricity_Load_Consumption_Trends.pbix: Power BI dashboard file
 - Electricity_Load_Dashboard.png: Dashboard preview image
@@ -39,4 +39,4 @@ Files in this Repo
 How to Use
 1. Clone or download this repository
 2. Open Electricity_Load_Consumption_Trends.pbix in Power BI Desktop to explore the interactive dashboard
-3. Open PJME_hourly.xlsx to review the raw data and pivot table calculations
+3. Open PJME_Hourly_Load_Data.xlsx to review the raw data and pivot table calculations
